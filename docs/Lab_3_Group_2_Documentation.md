@@ -22,7 +22,7 @@
 | **Course Code** | CSE 3206 |
 | **Name of the Experiment** | Lab 3: Design Pattern Analysis, Implementation and Code Review |
 | **Assigned Group** | Group 2 (Builder Pattern & Prototype Pattern) |
-| **Date of Submission** | 28.09.2026 |
+| **Date of Submission** | 12.10.2026 |
 
 ---
 
